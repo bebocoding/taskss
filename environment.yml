@@ -1,0 +1,8 @@
+name: myenvironment
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - numpy
+  - pandas
+  # Add other dependencies as needed
